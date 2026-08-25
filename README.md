@@ -19,3 +19,4 @@ Nouveautés :
 
 ## Important
 Le script SQL migre automatiquement l'ancienne tablature unique vers `documents`, donc tes tablatures existantes ne sont pas censées disparaître.
+vercel redeploy
